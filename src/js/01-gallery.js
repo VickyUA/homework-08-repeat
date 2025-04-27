@@ -6,6 +6,8 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 // Change code below this line
 
+console.log('hello world');
+
 const newGallery = document.querySelector('.gallery');
 
 const markUp = arr => {
