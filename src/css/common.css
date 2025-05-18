@@ -32,3 +32,8 @@ img {
   margin: 5px;
   border-radius: 5px;
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
